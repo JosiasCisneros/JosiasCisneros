@@ -17,6 +17,12 @@ I'm a software developer based in Costa Rica with professional experience in bac
 - **Web:** HTML, CSS
 - **Tools:** Git, GitHub, Visual Studio, Visual Studio Code, Swagger/OpenAPI
 
+## Projects
+
+### [Hospital Appointment Management](https://github.com/JosiasCisneros/citas-hospitalarias)
+
+A university Java project improved for my portfolio, built with Spring Boot, Spring Security, JPA and Thymeleaf. Includes patient and administrator workflows, appointment booking, password recovery, and persistent H2 storage with Flyway migrations. Focused on server-side permissions, transactional booking rules and automated tests.
+
 ## Languages
 
 Spanish: Native · English: Advanced (C1)
